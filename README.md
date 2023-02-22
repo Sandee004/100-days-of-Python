@@ -85,3 +85,6 @@ Used @Replit's cool audio feature to build an iPod and listen to some tunes 🎵
 
 ### Day 27
 Getting ready for an epic battle tomorrow! But first, we need to build some characters 🧙🏻‍♀️🧝🏻‍♀️👺! Day 27 of #Replit100DaysOfCode #100DaysOfCode. Join me on @Replit https://join.replit.com/python
+
+### Day 28
+Ready to battle it out ⚔️ with the characters I built in the previous day.  Day 28 of #Replit100DaysOfCode #100DaysOfCode. Join me on @Replit https://join.replit.com/python
