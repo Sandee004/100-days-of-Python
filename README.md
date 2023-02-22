@@ -1,12 +1,13 @@
 # 100-days-of-Python
 100 days of Python challenge from Replit
 
-##Content
+#Content
+#Day 1
 Hello to the world of coding and my very first project! Day 1 of
 #Replit100DaysOfCode #100DaysOfCode. Join me on @Replit
 https://join.replit.com/python
 
-
+#Day 2
 I just built my first interactive code which takes inputs from the user!
 Day 2 of #Replit100DaysOfCode #100DaysOfCode. Join me on
 @Replit https://join.replit.com/python
