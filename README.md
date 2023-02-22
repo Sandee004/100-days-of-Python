@@ -88,3 +88,6 @@ Getting ready for an epic battle tomorrow! But first, we need to build some char
 
 ### Day 28
 Ready to battle it out ⚔️ with the characters I built in the previous day.  Day 28 of #Replit100DaysOfCode #100DaysOfCode. Join me on @Replit https://join.replit.com/python
+
+### Day 29
+Bringing `print` statements to life with COLOR! Day 29 of #Replit100DaysOfCode #100DaysOfCode. Join me on @Replit https://join.replit.com/python
