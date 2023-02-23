@@ -1,7 +1,10 @@
 # 100-days-of-Python
 100 days of Python challenge from Replit
 
-# Content
+# Table of Content
+- [Day 1] (# Day 1)
+
+
 ### Day 1
 Hello to the world of coding and my very first project! Day 1 of
 #Replit100DaysOfCode #100DaysOfCode. Join me on @Replit
