@@ -1,4 +1,4 @@
-# 100-days-of-Python
+## 100-days-of-Python
 For the sake of my love for Python programming language; these are 100 different challenges from Replit to test and improve my skills in Python since getting major project ideas for Python can be stressful. You can join me on Replit https://join.replit.com/python.
 
 ## Table of Content
@@ -34,12 +34,10 @@ For the sake of my love for Python programming language; these are 100 different
 - [Day 30](#day-30)
 
 
-### Day 1
-Hello to the world of coding and my very first project! Day 1 of
-#Replit100DaysOfCode #100DaysOfCode. Join me on @Replit
-https://join.replit.com/python
+## Day 1
+Day one was pretty easy since it was just starting out. Basic "Hello World".
 
-### Day 2
+## Day 2
 I just built my first interactive code which takes inputs from the user!
 Day 2 of #Replit100DaysOfCode #100DaysOfCode. Join me on
 @Replit https://join.replit.com/python
