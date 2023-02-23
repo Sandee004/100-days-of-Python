@@ -35,6 +35,7 @@ Built my own tip calculator! Time to put it to the test at a restaurant 🍕 !  
 How many seconds in a year 🙀 !! Day 11 of #Replit100DaysOfCode
 
 ## Day 12
+Learnt how to find and squash bugs. Nothing better than a code free from bugs 🎉. Day 12 of #Replit100DaysofCode
 
 ## Day 13
 Built a grade calculator today! Definitely giving myself an A+ on this 😎 ! Day 13 of #Replit100DaysOfCode
