@@ -1,5 +1,5 @@
 # 100-days-of-Python
-100 days of Python challenge from Replit
+For the sake of my love for Python programming language; these are 100 different challenges from Replit to test and improve my skills in Python since getting major project ideas for Python can be stressful. You can join me on Replit https://join.replit.com/python.
 
 ## Table of Content
 - [Day 1](#day-1)
@@ -71,7 +71,7 @@ Built my own tip calculator! Time to put it to the test at a restaurant 🍕 !  
 ### Day 11
 How many seconds in a year 🙀 !! Day 11 of #Replit100DaysOfCode #100DaysOfCode. Join me on @Replit https://join.replit.com/python
 
-Missed
+### Day 12
 
 ### Day 13
 Built a grade calculator today! Definitely giving myself an A+ on this 😎 ! Day 13 of #Replit100DaysOfCode #100DaysOfCode. Join me on @Replit https://join.replit.com/python
