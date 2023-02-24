@@ -90,3 +90,6 @@ Bringing `print` statements to life with COLOR! Day 29 of #Replit100DaysOfCode
 
 ## Day 30
 Reflecting on my amazing work from the last 30 days. Created a reflection journal 📓. Day 30 of #Replit100DaysofCode
+
+## Day 31
+I went retro 🪩 and recreated two classic user interfaces. Can you guess what they are? Day 31 of #Replit100DaysOfCode
