@@ -124,3 +124,6 @@ https://github.com/Sandee004/100-days-of-Python/blob/main/Day30.py
 ## Day 31
 I went retro 🪩 and recreated two classic user interfaces. Can you guess what they are? Day 31 of #Replit100DaysOfCode
 https://github.com/Sandee004/100-days-of-Python/blob/main/Day31.py
+
+Built a random greetings list to greet you in different languages 👋. Day 32 of #Replit100DaysOfCode
+https://github.com/Sandee004/100-days-of-Python/blob/main/Day32.py
