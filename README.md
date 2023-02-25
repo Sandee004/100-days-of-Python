@@ -128,3 +128,7 @@ https://github.com/Sandee004/100-days-of-Python/blob/main/Day31.py
 ## Day 32
 Built a random greetings list to greet you in different languages 👋. Day 32 of #Replit100DaysOfCode
 https://github.com/Sandee004/100-days-of-Python/blob/main/Day32.py
+
+## Day 33
+This one is for all the list makers. Built a customized to do list today. ✅ Day 33 of #Replit100DaysOfCode
+https://github.com/Sandee004/100-days-of-Python/blob/main/Day33.py
