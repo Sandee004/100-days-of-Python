@@ -14,7 +14,10 @@ def printList():
 
 def addItem():
         item = input("What task do you want to add? ")
-        myAgenda.append(item)
+        if item not in myAgenda:
+             myAgenda.append(item)
+        else:
+             print("Task already exists")
         time.sleep(1)
         os.system("clear")
 
