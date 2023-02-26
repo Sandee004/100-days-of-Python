@@ -149,6 +149,6 @@ https://github.com/Sandee004/100-days-of-Python/blob/main/Day36.py
 What is your Star Wars name? Check mine out! Day 37 of #Replit100DaysOfCode
 https://github.com/Sandee004/100-days-of-Python/blob/main/Day37.py
 
-## Day 37
+## Day 38
 Code the rainbow and harness the power of strings and loops. Day 38 of #Replit100DaysOfCode
 https://github.com/Sandee004/100-days-of-Python/blob/main/Day38.py
