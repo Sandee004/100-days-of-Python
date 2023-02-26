@@ -156,3 +156,7 @@ https://github.com/Sandee004/100-days-of-Python/blob/main/Day38.py
 ## Day 39
 I built Hangman. Can you guess the word? Day 39 of #Replit100DaysOfCode
 https://github.com/Sandee004/100-days-of-Python/blob/main/Day39.py
+
+## Day 40
+I found a way to get your digits. Check out my address book. Day 40 of #Replit100DaysOfCode
+https://github.com/Sandee004/100-days-of-Python/blob/main/Day40.py
