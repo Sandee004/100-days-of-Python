@@ -160,3 +160,7 @@ https://github.com/Sandee004/100-days-of-Python/blob/main/Day39.py
 ## Day 40
 I found a way to get your digits. Check out my address book. Day 40 of #Replit100DaysOfCode
 https://github.com/Sandee004/100-days-of-Python/blob/main/Day40.py
+
+## Day 41
+It's 5 stars for me. ✨ Use my project to rate your favorite websites. Day 41 of #Replit100DaysOfCode
+https://github.com/Sandee004/100-days-of-Python/blob/main/Day41.py
