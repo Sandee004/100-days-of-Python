@@ -164,3 +164,6 @@ https://github.com/Sandee004/100-days-of-Python/blob/main/Day40.py
 ## Day 41
 It's 5 stars for me. ✨ Use my project to rate your favorite websites. Day 41 of #Replit100DaysOfCode
 https://github.com/Sandee004/100-days-of-Python/blob/main/Day41.py
+
+## Day 42
+I caught 'em all with my epic MokeBeasts game. Day 42 of #Replit100DaysOfCode
