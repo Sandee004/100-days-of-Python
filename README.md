@@ -168,3 +168,8 @@ https://github.com/Sandee004/100-days-of-Python/blob/main/Day41.py
 ## Day 42
 I caught 'em all with my epic MokeBeasts game. Day 42 of #Replit100DaysOfCode
 https://github.com/Sandee004/100-days-of-Python/blob/main/Day42.py
+
+## Day 43
+
+Check out my Bingo game for David (@lessonhacker)'s Nan! #thisOnesForDavidsNan Day 43 of #Replit100DaysOfCode
+https://github.com/Sandee004/100-days-of-Python/blob/main/Day43.py
