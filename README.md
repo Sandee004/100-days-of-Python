@@ -1,5 +1,5 @@
 ## 100-days-of-Python
-For the sake of my love for Python programming language; these are 100 different challenges from Replit to test and improve my skills in Python since getting major project ideas for Python can be stressful. You can join me on Replit https://join.replit.com/python.
+For the sake of not forgetting what I know about Python; these are 100 different challenges from Replit to test and improve my skills in Python since getting major project ideas for Python can be stressful. You can join me on Replit https://join.replit.com/python.
 
 ## Day 1
 Hello to the world of coding and my very first project! Day 1 of #Replit100daysofCode
