@@ -184,3 +184,8 @@ https://github.com/Sandee004/100-days-of-Python/blob/main/Day45.py
 ## Day 46
 MokeBeasts are back! Day 46 of #Replit100DaysOfCode
 https://github.com/Sandee004/100-days-of-Python/blob/main/Day46.py
+
+## Day 47
+Channelled my inner British 🇬🇧 vibes and recreated David's favorite card game. Day 47 of #Replit100DaysOfCode
+https://github.com/Sandee004/100-days-of-Python/blob/main/Day47.py
+
