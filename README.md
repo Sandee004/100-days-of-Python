@@ -176,3 +176,8 @@ https://github.com/Sandee004/100-days-of-Python/blob/main/Day43.py
 ## Day 44
 Now, #DavidsNanIsGoingToWinAtBingo with the changes I made to the Bingo game. #DavidsNanLovesThisCode Day 44 of #Replit100DaysOfCode
 https://github.com/Sandee004/100-days-of-Python/blob/main/Day44.py
+
+## Day 45
+Today's 'to do list management system' is 'to done'. Day 45 of #Replit100DaysOfCode
+
+https://github.com/Sandee004/100-days-of-Python/blob/main/Day45.py
