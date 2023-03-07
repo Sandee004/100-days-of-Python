@@ -189,3 +189,6 @@ https://github.com/Sandee004/100-days-of-Python/blob/main/Day46.py
 Channelled my inner British 🇬🇧 vibes and recreated David's favorite card game. Day 47 of #Replit100DaysOfCode
 https://github.com/Sandee004/100-days-of-Python/blob/main/Day47.py
 
+## Day 48
+Finally know how to save my data. Day 48 of #Replit100DaysOfCode 
+https://github.com/Sandee004/100-days-of-Python/blob/main/Day48.py
