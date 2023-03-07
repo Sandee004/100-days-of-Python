@@ -192,3 +192,8 @@ https://github.com/Sandee004/100-days-of-Python/blob/main/Day47.py
 ## Day 48
 Finally know how to save my data. Day 48 of #Replit100DaysOfCode 
 https://github.com/Sandee004/100-days-of-Python/blob/main/Day48.py
+
+## Day 49
+Now I can read data too. Guess who got the 'high score?' Day 49 of #Replit100DaysOfCode
+https://github.com/Sandee004/100-days-of-Python/blob/main/Day49.py
+
