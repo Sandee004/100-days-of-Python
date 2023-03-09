@@ -197,3 +197,6 @@ https://github.com/Sandee004/100-days-of-Python/blob/main/Day48.py
 Now I can read data too. Guess who got the 'high score?' Day 49 of #Replit100DaysOfCode
 https://github.com/Sandee004/100-days-of-Python/blob/main/Day49.py
 
+## Day 50
+I will never forget a brilliant idea again thanks to my idea storage system. Halfway there with Day 50 of #Replit100DaysOfCode
+https://github.com/Sandee004/100-days-of-Python/blob/main/Day50.py
