@@ -84,5 +84,4 @@ while True:
         viewItems()
     if operation == "4":
         updateItems()
-    else:
-        print("Invalid option")
+    
