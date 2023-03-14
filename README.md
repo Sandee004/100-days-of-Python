@@ -200,3 +200,7 @@ https://github.com/Sandee004/100-days-of-Python/blob/main/Day49.py
 ## Day 50
 I will never forget a brilliant idea again thanks to my idea storage system. Halfway there with Day 50 of #Replit100DaysOfCode
 https://github.com/Sandee004/100-days-of-Python/blob/main/Day50.py
+
+## Day 51
+My to do list management system can now auto-save and load. Day 51 of #Replit100DaysOfCode
+https://github.com/Sandee004/100-days-of-Python/blob/main/Day51.py
