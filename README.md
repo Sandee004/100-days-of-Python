@@ -208,3 +208,8 @@ https://github.com/Sandee004/100-days-of-Python/blob/main/Day51.py
 ## Day 52
 I kept 'Dave's Dodgey Pizzeria' from total mayhem and order mix-up by using try and except! Day 52 of #Replit100DaysOfCode
 https://github.com/Sandee004/100-days-of-Python/blob/main/Day52.py
+
+## Day 53
+Look out game stores! I got that RPG inventory system all set. Day 53 of #Replit100DaysOfCode
+https://github.com/Sandee004/100-days-of-Python/blob/main/Day53.py
+
