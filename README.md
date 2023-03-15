@@ -204,3 +204,7 @@ https://github.com/Sandee004/100-days-of-Python/blob/main/Day50.py
 ## Day 51
 My to do list management system can now auto-save and load. Day 51 of #Replit100DaysOfCode
 https://github.com/Sandee004/100-days-of-Python/blob/main/Day51.py
+
+## Day 52
+I kept 'Dave's Dodgey Pizzeria' from total mayhem and order mix-up by using try and except! Day 52 of #Replit100DaysOfCode
+https://github.com/Sandee004/100-days-of-Python/blob/main/Day52.py
