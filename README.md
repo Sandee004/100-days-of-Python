@@ -213,3 +213,7 @@ https://github.com/Sandee004/100-days-of-Python/blob/main/Day52.py
 Look out game stores! I got that RPG inventory system all set. Day 53 of #Replit100DaysOfCode
 https://github.com/Sandee004/100-days-of-Python/blob/main/Day53.py
 
+## Day 54
+CSV files are where it's at. Day 54 of #Replit100DaysOfCode 
+https://github.com/Sandee004/100-days-of-Python/blob/main/Day54.py
+
