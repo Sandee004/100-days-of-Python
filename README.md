@@ -232,3 +232,6 @@ https://github.com/Sandee004/100-days-of-Python/blob/main/Day57.py
 ## Day 58
 Debugging code like a pro! Day 58 of #Replit100DaysOfCode
 https://github.com/Sandee004/100-days-of-Python/blob/main/Day58.py
+
+Check out my palindrome detector. No idea what a palindrome is? Learn more in Day 59 of #Replit100DaysOfCode
+https://github.com/Sandee004/100-days-of-Python/blob/main/Day59.py
