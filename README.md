@@ -223,6 +223,8 @@ https://github.com/Sandee004/100-days-of-Python/blob/main/Day55.py
 
 ## Day 56
 Look out streaming services. I made my own on Day 56 of #Replit100DaysOfCode
-https://github.com/Sandee004/100-days-of-Python/blob/main/Day55.py
+https://github.com/Sandee004/100-days-of-Python/blob/main/Day56.py
 
-Look out streaming services. I made my own on Day 56 of #
+## Day 57
+I built a factorial program. Not sure what that is? Check out Day 57 of #Replit100DaysOfCode
+https://github.com/Sandee004/100-days-of-Python/blob/main/Day57.py
