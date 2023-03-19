@@ -241,3 +241,6 @@ https://github.com/Sandee004/100-days-of-Python/blob/main/Day59.py
 The countdown is on...Check out Day 60 of #Replit100DaysOfCode
 https://github.com/Sandee004/100-days-of-Python/blob/main/Day60.py
 
+## Day 61
+I am loving these daily tweets 🐥 so much that I created my own one-person Twitter on Day 61 of #Replit100DaysOfCode
+https://github.com/Sandee004/100-days-of-Python/blob/main/Day61.py
