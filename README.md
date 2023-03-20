@@ -248,3 +248,7 @@ https://github.com/Sandee004/100-days-of-Python/blob/main/Day61.py
 ## Day 62
 I dare you to try to open my secret diary 🔒 in Day 62 of #Replit100DaysOfCode
 https://github.com/Sandee004/100-days-of-Python/blob/main/Day62.py
+
+## Day 63
+Used my hidden librarian skills to create my own subroutine library on Day 63 of #Replit100DaysOfCode 
+https://github.com/Sandee004/100-days-of-Python/blob/main/Day63.py
