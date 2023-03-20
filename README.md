@@ -256,3 +256,7 @@ https://github.com/Sandee004/100-days-of-Python/blob/main/Day63.py
 ## Day 64
 It felt a little bit like the game of LIFE when I built today's job class using OOP. Check out Day 64 of #Replit100DaysOfCode
 https://github.com/Sandee004/100-days-of-Python/blob/main/Day64.py
+
+## Day 65
+Check out my orc and vampire 🧛🏻‍♂️ characters I built for my video game on Day 65 of #Replit100DaysOfCode
+https://github.com/Sandee004/100-days-of-Python/blob/main/Day65.py
