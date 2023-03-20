@@ -244,3 +244,7 @@ https://github.com/Sandee004/100-days-of-Python/blob/main/Day60.py
 ## Day 61
 I am loving these daily tweets 🐥 so much that I created my own one-person Twitter on Day 61 of #Replit100DaysOfCode
 https://github.com/Sandee004/100-days-of-Python/blob/main/Day61.py
+
+## Day 62
+I dare you to try to open my secret diary 🔒 in Day 62 of #Replit100DaysOfCode
+https://github.com/Sandee004/100-days-of-Python/blob/main/Day62.py
