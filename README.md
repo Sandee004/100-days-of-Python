@@ -260,3 +260,7 @@ https://github.com/Sandee004/100-days-of-Python/blob/main/Day64.py
 ## Day 65
 Check out my orc and vampire 🧛🏻‍♂️ characters I built for my video game on Day 65 of #Replit100DaysOfCode
 https://github.com/Sandee004/100-days-of-Python/blob/main/Day65.py
+
+## Day 66
+Check out my vintage calculator straight from the 90s. Join the time warp in Day 66 of #Replit100DaysOfCode
+https://github.com/Sandee004/100-days-of-Python/blob/main/Day66.py
