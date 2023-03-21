@@ -277,6 +277,10 @@ https://github.com/Sandee004/100-days-of-Python/blob/main/Day68.py
 With a bit of tinkering, I wrote a graphic novel with tkinter on Day 69 of #Replit100DaysOfCode
 https://github.com/Sandee004/100-days-of-Python/blob/main/Day69.py
 
+## Day 70
+I learned how to keep those other forkers away from my passwords on Day 70 of #Replit100DaysOfCode #
+https://github.com/Sandee004/100-days-of-Python/blob/main/Day70.py
+
 ## Day 71
 Thanks to hash and salt, my passwords are fully locked down. Day 71 of #Replit100DaysOfCode
 https://github.com/Sandee004/100-days-of-Python/blob/main/Day71.py
