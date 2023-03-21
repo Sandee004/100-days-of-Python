@@ -272,3 +272,7 @@ https://github.com/Sandee004/100-days-of-Python/blob/main/Day67.py
 ## Day 68
 Guess what? 'Guess Who' got an upgrade Day 68 of #Replit100DaysOfCode
 https://github.com/Sandee004/100-days-of-Python/blob/main/Day68.py
+
+## Day 69
+With a bit of tinkering, I wrote a graphic novel with tkinter on Day 69 of #Replit100DaysOfCode
+https://github.com/Sandee004/100-days-of-Python/blob/main/Day69.py
