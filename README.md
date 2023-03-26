@@ -284,3 +284,7 @@ https://github.com/Sandee004/100-days-of-Python/blob/main/Day70.py
 ## Day 71
 Thanks to hash and salt, my passwords are fully locked down. Day 71 of #Replit100DaysOfCode
 https://github.com/Sandee004/100-days-of-Python/blob/main/Day71.py
+
+## Day 72
+Let's try this again. My secret diary is actually locked down this time on Day 72 of #Replit100DaysOfCode
+https://github.com/Sandee004/100-days-of-Python/blob/main/Day72.py
