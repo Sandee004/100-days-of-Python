@@ -288,3 +288,8 @@ https://github.com/Sandee004/100-days-of-Python/blob/main/Day71/Day71.py
 ## Day 72
 Let's try this again. My secret diary is actually locked down this time on Day 72 of #Replit100DaysOfCode
 https://github.com/Sandee004/100-days-of-Python/blob/main/Day72/Day72.py
+
+## Day 73
+Check out my top 5 projects portfolio from #Replit100DaysOfCode on Day 73 of #Replit100DaysOfCode #100DaysOfCode. Join me on @Replit https://join.replit.com/python
+https://github.com/Sandee004/100-days-of-Python/blob/main/Day73/Day73.py
+
