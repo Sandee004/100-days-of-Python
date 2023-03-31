@@ -290,10 +290,18 @@ Let's try this again. My secret diary is actually locked down this time on Day 7
 https://github.com/Sandee004/100-days-of-Python/blob/main/Day72/Day72.py
 
 ## Day 73
-Check out my top 5 projects portfolio from #Replit100DaysOfCode on Day 73 of #Replit100DaysOfCode #100DaysOfCode. Join me on @Replit https://join.replit.com/python
+Check out my top 5 projects portfolio from #Replit100DaysOfCode on Day 73 of #Replit100DaysOfCode.3
 https://github.com/Sandee004/100-days-of-Python/blob/main/Day73/Day73.py
 
 ## Day 74
-You can just call me a web designer now after Day 74 of #Replit100DaysOfCode #100DaysOfCode. Join me on @Replit https://join.replit.com/python
+You can just call me a web designer now after Day 74 of #Replit100DaysOfCode.
+https://join.replit.com/python
 https://github.com/Sandee004/100-days-of-Python/blob/main/Day74/Day74.py
+
+## Day 75
+Thanks to @Replit I have the skills to make my own link tree Day 75 of #Replit100DaysOfCode
+https://join.replit.com/python
+https://github.com/Sandee004/100-days-of-Python/blob/main/Day75/Day75.py
+
+
 
