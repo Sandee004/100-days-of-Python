@@ -293,3 +293,7 @@ https://github.com/Sandee004/100-days-of-Python/blob/main/Day72/Day72.py
 Check out my top 5 projects portfolio from #Replit100DaysOfCode on Day 73 of #Replit100DaysOfCode #100DaysOfCode. Join me on @Replit https://join.replit.com/python
 https://github.com/Sandee004/100-days-of-Python/blob/main/Day73/Day73.py
 
+## Day 74
+You can just call me a web designer now after Day 74 of #Replit100DaysOfCode #100DaysOfCode. Join me on @Replit https://join.replit.com/python
+https://github.com/Sandee004/100-days-of-Python/blob/main/Day74/Day74.py
+
