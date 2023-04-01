@@ -303,5 +303,7 @@ Thanks to @Replit I have the skills to make my own link tree Day 75 of #Replit10
 https://join.replit.com/python
 https://github.com/Sandee004/100-days-of-Python/blob/main/Day75/Day75.py
 
-
+## Day 76
+With the help of Flask, my web server is looking dope Day 76 of #Replit100DaysOfCode
+https://github.com/Sandee004/100-days-of-Python/blob/main/Day76/Day76.py
 
