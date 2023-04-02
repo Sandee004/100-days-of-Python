@@ -307,3 +307,6 @@ https://github.com/Sandee004/100-days-of-Python/blob/main/Day75/Day75.py
 With the help of Flask, my web server is looking dope Day 76 of #Replit100DaysOfCode
 https://github.com/Sandee004/100-days-of-Python/blob/main/Day76/Day76.py
 
+## Day 77
+I can seriously create some legit web servers now thanks to Flask on Day 77 of #Replit100DaysOfCode
+https://github.com/Sandee004/100-days-of-Python/blob/main/Day77/Day77.py
