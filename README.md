@@ -311,7 +311,9 @@ https://github.com/Sandee004/100-days-of-Python/blob/main/Day76/Day76.py
 I can seriously create some legit web servers now thanks to Flask on Day 77 of #Replit100DaysOfCode
 https://github.com/Sandee004/100-days-of-Python/blob/main/Day77/Day77.py
 
-
+## Day 78
+I built a reflection space to store how I really feel for these last 22 days. Day 78 of #Replit100DaysOfCode
+https://github.com/Sandee004/100-days-of-Python/blob/main/Day78/Day78.py
 
 ## Day 79
 My webpage can talk now...through forms of course. Day 79 of #Replit100DaysOfCode
