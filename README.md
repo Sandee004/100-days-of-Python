@@ -318,3 +318,8 @@ https://github.com/Sandee004/100-days-of-Python/blob/main/Day78/Day78.py
 ## Day 79
 My webpage can talk now...through forms of course. Day 79 of #Replit100DaysOfCode
 https://github.com/Sandee004/100-days-of-Python/blob/main/Day79/Day79.py
+
+## Day 80
+I put all that data to good use. With the help of Flask, I can now receive data in my form on Day 80 of #Replit100DaysOfCode
+https://github.com/Sandee004/100-days-of-Python/blob/main/Day80/Day80.py
+
