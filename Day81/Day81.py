@@ -48,7 +48,7 @@ def welcome():
 
     form= request.form
 
-    if form["metal"] == "no" and form["infinity"] == "infinity" and form["food"] == "Human food":
+    if form["metal"] == "no" and form["infinity"].lower().trim() == "infinity" and form["food"] == "Human food":
 
         page += "Welcome fellow human"
 
