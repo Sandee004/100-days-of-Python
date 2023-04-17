@@ -324,8 +324,16 @@ I put all that data to good use. With the help of Flask, I can now receive data 
 https://github.com/Sandee004/100-days-of-Python/blob/main/Day80/Day80.py
 
 ## Day 81
-No robots here! 🤖 I made sure my webserver catches any suspicious login on Day 81 of #Replit100DaysOfCode #100DaysOfCode. Join me on @Replit https://join.replit.com/python
+No robots here! 🤖 I made sure my webserver catches any suspicious login on Day 81 of #Replit100DaysOfCode
 https://github.com/Sandee004/100-days-of-Python/blob/main/Day81/Day81.py
 
+## Day 82
+Figured how to create URLs that can be bookmarked 🔖 with the 'get' method on Day 82 of #Replit100DaysOfCode
+https://github.com/Sandee004/100-days-of-Python/blob/main/Day82/Day82.py
 
+
+
+## Day 83
+I customized my blog engine with cool themes. Day 83 of #Replit100DaysOfCode
+https://github.com/Sandee004/100-days-of-Python/blob/main/Day83/Day83.py
 
