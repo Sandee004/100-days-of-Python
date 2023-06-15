@@ -331,9 +331,10 @@ https://github.com/Sandee004/100-days-of-Python/blob/main/Day81/Day81.py
 Figured how to create URLs that can be bookmarked 🔖 with the 'get' method on Day 82 of #Replit100DaysOfCode
 https://github.com/Sandee004/100-days-of-Python/blob/main/Day82/Day82.py
 
-
-
 ## Day 83
 I customized my blog engine with cool themes. Day 83 of #Replit100DaysOfCode
 https://github.com/Sandee004/100-days-of-Python/blob/main/Day83/Day83.py
 
+## Day 84
+Same website...but better because of client server models. Day 84 of #Replit100DaysOfCode #100DaysOfCode
+https://github.com/Sandee004/100-days-of-Python/blob/main/Day84/Day84.py
