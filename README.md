@@ -342,3 +342,8 @@ https://github.com/Sandee004/100-days-of-Python/blob/main/Day84/Day84.py
 ## Day 85
 Don't be stateless like HTTP. Create sessions to keep record of literally anything on Day 85 of #Replit100DaysOfCode #100DaysOfCode
 https://github.com/Sandee004/100-days-of-Python/blob/main/Day85/Day85.py
+
+## Day 86
+It may be a bit 1996, but I built a fully functioning blog that only I can access. 🔒 Day 86 of #Replit100DaysOfCode #100DaysOfCode.
+https://github.com/Sandee004/100-days-of-Python/blob/main/Day86/Day86.py
+
